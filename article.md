@@ -114,5 +114,3 @@ introduction
 
 ----
 *Article content is generated using ChatGPT.*
-
-Lorem ipsum dolor sit amet
